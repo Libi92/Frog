@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:rim="http://www.blackberry.com/ns/widgets"
+        version="1.0.0.0" id="PinchFrog">  
+    <name>Frog Pinch</name>
+    <author>Libin</author>
+    <description>Pinch the Frog</description>
+    <icon src="frog.png"/>
+    <content src="index.html"/>
+
+</widget>
